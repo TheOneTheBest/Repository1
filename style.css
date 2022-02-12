@@ -1,0 +1,64 @@
+  h1{
+
+  color:greenyellow;
+
+  border: 3px solid blue;
+
+
+
+
+}
+
+
+p{
+
+color:blue;
+
+
+
+}
+
+body{
+
+  background: #41295a;  /* fallback for old browsers */
+ background: -webkit-linear-gradient(to right, #2F0743, #41295a);  /* Chrome 10-25, Safari 5.1-6 */
+ background: linear-gradient(to right, #2F0743, #41295a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  
+
+
+
+}
+
+li{
+
+list-style: none;
+
+margin-right: 5px;
+}
+
+
+a{
+
+text-decoration: none;
+color:rgb(163, 40, 10);
+border: 3px solid rgb(202, 174, 206);
+padding: 10px 20px;
+border-radius: 20px;
+
+
+
+} 
+
+
+#title{
+
+   font-family: 'Supermercado One', cursive;
+}
+
+ 
+
+
+
+
+
